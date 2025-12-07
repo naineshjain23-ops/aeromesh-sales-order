@@ -1,0 +1,5 @@
+{
+  "name": "Aeromesh Order Manager",
+  "description": "A streamlined sales order and automated packing slip generator for Aeromesh Netting Solutions.",
+  "requestFramePermissions": []
+}
